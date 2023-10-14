@@ -1,6 +1,8 @@
 text 1.9
-text 2
+text 2.4
 text 3.2
-text 5.3
+text 5
 text 6
 text 7
+text 8
+texy 9
